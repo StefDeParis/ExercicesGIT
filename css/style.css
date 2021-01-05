@@ -1,5 +1,3 @@
-.conteneur {
-    display: flex;
-    justify-content: space-between;
+body {
+    background: red;
     }
-    
